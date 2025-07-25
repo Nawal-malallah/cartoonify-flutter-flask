@@ -73,6 +73,13 @@ python cartoon_api.py
 
 ---
 
+## 📸 App Preview
+
+Here’s a preview of the app after converting an image to cartoon:
+
+![Cartoonify UI](https://github.com/markamgad1234/cartoonify-flutter-flask/blob/main/Screenshot_1753463252.png))
+
+
 ## 🔐 License
 
 This project is licensed under the [MIT License](./LICENSE).
